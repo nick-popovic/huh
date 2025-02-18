@@ -766,3 +766,12 @@ func (m *MultiSelect[T]) GetValue() any {
 func (m *MultiSelect[T]) GetFiltering() bool {
 	return m.filtering
 }
+
+func (ms *MultiSelect[T]) toggleParentAndChildren(i int, toggle bool) {
+	// Toggle the parent.
+	ms.options.val[i].selected = toggle
+	// Toggle all children recursively.
+	ms.options.val[i].traverseChildren(func(child *Option[T]) {
+		child.selected = toggle
+	})
+}
