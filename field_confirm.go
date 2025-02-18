@@ -6,8 +6,8 @@ import (
 
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/huh/accessibility"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh/accessibility"
 )
 
 // Confirm is a form confirm field.

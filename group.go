@@ -6,8 +6,8 @@ import (
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/viewport"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/huh/internal/selector"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh/internal/selector"
 )
 
 // Group is a collection of fields that are displayed together with a page of

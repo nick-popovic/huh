@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/charmbracelet/huh"
+	"github.com/nick-popovic/huh"
 )
 
 // TODO: ensure input is not plagiarized.

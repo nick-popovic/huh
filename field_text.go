@@ -9,8 +9,8 @@ import (
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/textarea"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/huh/accessibility"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh/accessibility"
 )
 
 // Text is a text field.

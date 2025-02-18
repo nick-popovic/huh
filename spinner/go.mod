@@ -1,4 +1,4 @@
-module github.com/charmbracelet/huh/spinner
+module github.com/nick-popovic/huh/spinner
 
 go 1.22
 

@@ -6,7 +6,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/charmbracelet/huh"
+	"github.com/nick-popovic/huh"
 )
 
 func main() {

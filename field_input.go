@@ -7,8 +7,8 @@ import (
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/huh/accessibility"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh/accessibility"
 )
 
 // Input is a input field.

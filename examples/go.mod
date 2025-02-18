@@ -6,8 +6,8 @@ require (
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.3.3
 	github.com/charmbracelet/glamour v0.8.0
-	github.com/charmbracelet/huh v0.0.0-00010101000000-000000000000
-	github.com/charmbracelet/huh/spinner v0.0.0-00010101000000-000000000000
+	github.com/nick-popovic/huh v0.0.0-00010101000000-000000000000
+	github.com/nick-popovic/huh/spinner v0.0.0-00010101000000-000000000000
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/charmbracelet/log v0.4.0
 	github.com/charmbracelet/ssh v0.0.0-20250128164007-98fd5ae11894
@@ -60,6 +60,6 @@ require (
 	golang.org/x/text v0.22.0 // indirect
 )
 
-replace github.com/charmbracelet/huh => ../
+replace github.com/nick-popovic/huh => ../
 
-replace github.com/charmbracelet/huh/spinner => ../spinner
+replace github.com/nick-popovic/huh/spinner => ../spinner

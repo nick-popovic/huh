@@ -1,4 +1,4 @@
-module github.com/charmbracelet/huh
+module github.com/nick-popovic/huh
 
 go 1.22
 

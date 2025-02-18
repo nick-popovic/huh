@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/charmbracelet/huh"
+	"github.com/nick-popovic/huh"
 )
 
 func main() {

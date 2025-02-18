@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/charmbracelet/huh/spinner"
+	"github.com/nick-popovic/huh/spinner"
 )
 
 func main() {

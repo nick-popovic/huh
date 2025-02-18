@@ -1,6 +1,6 @@
 package main
 
-import "github.com/charmbracelet/huh"
+import "github.com/nick-popovic/huh"
 
 func main() {
 	note := huh.NewNote().Description(

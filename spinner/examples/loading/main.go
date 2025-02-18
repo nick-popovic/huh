@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/charmbracelet/huh/spinner"
+	"github.com/nick-popovic/huh/spinner"
 )
 
 func main() {
@@ -17,4 +17,3 @@ func main() {
 	}
 	fmt.Println("Order up!")
 }
-

@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/charmbracelet/huh"
-	"github.com/charmbracelet/huh/spinner"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh"
+	"github.com/nick-popovic/huh/spinner"
 )
 
 type Action int

@@ -11,8 +11,8 @@ import (
 	"github.com/charmbracelet/bubbles/filepicker"
 	"github.com/charmbracelet/bubbles/key"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/huh/accessibility"
 	"github.com/charmbracelet/lipgloss"
+	"github.com/nick-popovic/huh/accessibility"
 )
 
 // FilePicker is a form file file field.
